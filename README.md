@@ -5,3 +5,5 @@ added self replication\
 added self hosting (now you don't need 2 programs to run the malware)\
 support for different clients (Canary and PTB)\
 just better.
+
+# I DON'T TAKE RESPONSABILITY OF THE USE OF THIS TOOL!
